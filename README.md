@@ -19,6 +19,9 @@ I figured since [DummiesNmap](https://github.com/kaizokuv/dummiesnmap) was a rel
 
 ## Anything else?
 Nah not really, but if you wanna find me ehhh..
+
 kaizokuv, that's my discord, hmu there
+
+
 
 Next time this gets updated? Who knows...
