@@ -7,7 +7,7 @@ Hi, I'm Kaizoku, kaizo is fine. Before you ask me why it sounds japanese, it is.
 ## Stuff I've done
 Alot of dumb stuff, some pretty useful like..
 - [DummiesNmap](https://github.com/kaizokuv/dummiesnmap) - A 'simplified' version of Nmap (I am dumb and couldn't understand the flags so I dummified it for myself) with some added functionalities
-- [UltraCTF](https://github.com/kaizokuv/UltraCTF) - A CTF tool, similar to [CyberChef](https://github.com/gchq/CyberChef), but made offline (Still a WIP)
+- [UltraCTF](https://github.com/kaizokuv/UltraCTF) - A CTF tool, inspired to [CyberChef](https://github.com/gchq/CyberChef), but made offline (Still a WIP)
 - [Ange1Encrypt3r](https://github.com/kaizokuv/Ange1Encrypt3r) - A 3-step encrypter/decrypter using substitution, hexing and AES
 
 And others more on the dumb/kinda just there stuff..
