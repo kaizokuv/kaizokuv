@@ -2,7 +2,7 @@ I don't really know what to put here but..
 
 # Basic intro time let's gooo
 
-Hi, I'm Kaizoku, kaizo is fine. Before you ask me why it sounds japanese, it is. Kaizoku is japanese for pirate (no, I'm not a pirate). Here you can find my ever growing amount of repos filled with dumb stuff to actual useful stuff. I work on python-based applications, but who knows, eventually I might dabble in other languages.
+Hi, I'm Kaizoku, kaizo is fine. Before you ask me why it sounds japanese, it is. Kaizoku is japanese for pirate (no, I'm not a pirate). Here you can find my ever growing amount of repos filled with dumb stuff to actual useful stuff. I work on python-based applications, but who knows, eventually I might dabble in other languages. (I use Arch BTW)
 
 ## Stuff I've done
 Alot of dumb stuff, some pretty useful like..
@@ -21,7 +21,3 @@ I figured since [DummiesNmap](https://github.com/kaizokuv/dummiesnmap) was a rel
 Nah not really, but if you wanna find me ehhh..
 
 kaizokuv, that's my discord, hmu there
-
-
-
-Next time this gets updated? Who knows...
