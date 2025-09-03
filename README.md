@@ -15,7 +15,7 @@ And others more on the dumb/kinda just there stuff..
 - [UltraCTF](https://github.com/kaizokuv/UltraCTF) - A CTF tool, inspired to [CyberChef](https://github.com/gchq/CyberChef), but made offline (Now archived)
 
 ## Currently working on
-I figured since [DummiesNmap](https://github.com/kaizokuv/dummiesnmap) was a relatively good idea, and I'm a pretty stupid lad, I might as well make a bunch of programs that are dummified versions of the main thing, while making it easier for beginners to understand, while adding some extra functionality. So the current project is a revamp of [UltraCTF](https://github.com/kaizokuv/UltraCTF), and moving it to the Dummies family
+No goddy clue tbh, just vibe coding
 
 ## Anything else?
 Nah not really, but if you wanna find me ehhh..
