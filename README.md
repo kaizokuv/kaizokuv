@@ -16,7 +16,7 @@ And others more on the dumb/kinda just there stuff..
 - [UltraCTF](https://github.com/kaizokuv/UltraCTF) - A CTF tool, inspired to [CyberChef](https://github.com/gchq/CyberChef), but made offline (Now archived)
 
 ## Currently working on
-No goddy clue tbh
+No goddy clue tbh (my dots and random stuff..?)
 
 ## Anything else?
 Nah not really, but if you wanna find me ehhh..
